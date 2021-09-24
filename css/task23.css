@@ -1,0 +1,17 @@
+.circle {
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    
+  }
+  
+.container {
+    height:100%;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+  }

@@ -1,0 +1,16 @@
+.circle {
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+  
+.container {
+    height:100%;
+    width: 100%;
+  }
