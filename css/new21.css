@@ -1,0 +1,15 @@
+.circle {
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+  }
+  
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  }
+  
