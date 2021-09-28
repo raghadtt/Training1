@@ -3,10 +3,12 @@
     margin-left: 70px;
     margin-right: 72px;
 }
+
 table td{
   border-collapse: separate;
   padding: 16px;
 }
+
 p{
    font-size: 30px;
    font-weight: bold;
