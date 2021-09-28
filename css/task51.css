@@ -1,4 +1,3 @@
-
 .div1 {
     width: 300px;
     height: 380px;  
@@ -7,11 +6,13 @@
     margin: 15px;
     text-align:center;
 }
+
 .div2{
     color: grey; 
     margin:10px; 
     font-size: 18px;
 }
+
 .photo{ 
       background-image: url('https://media.istockphoto.com/vectors/female-avatar-profile-icon-round-woman-face-vector-id897379486?k=20&m=897379486&s=170667a&w=0&h=YsVELdii1n435JxbFdn3tbagAcxinN0A6GcQzTIlR4s=');
       width: 150px;
@@ -22,8 +23,9 @@
       margin-left: auto;
       margin-right: auto ;
 }
+
 .button {
-    background-color: #48caeb; /* Green */
+    background-color: #48caeb; 
     color: white;
     border:none;
     border-bottom: 1px solid black;
@@ -36,6 +38,7 @@
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .footer{
     margin-top: 30px;
     padding-top: 7px;
@@ -48,8 +51,15 @@
     font-size: 18px;
     color:wheat;
 }
+
 .material-icons{
-    font-size:18px;
+    font-size:24px;
     color:white; 
-    vertical-align: top;
+    display: inline;
+    vertical-align: middle;
+}
+
+.inline{
+    display: inline;
+    vertical-align: middle;
 }
