@@ -3,13 +3,16 @@
     margin-left: 70px;
     margin-right: 70px;
 }
+
 .rows{
     display: flex;
     flex-direction: row;
 }
+
 .text{
    padding: 18px;
 }
+
 p{
    font-size: 30px;
    font-weight: bold;
