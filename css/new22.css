@@ -3,11 +3,13 @@
     width: 100%;
     height: 100vh; 
 }
+
 .centre-align {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
 }
+
 .content {
     width: 350px;
     height: 350px;
